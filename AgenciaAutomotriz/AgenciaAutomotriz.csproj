@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DatosRefacciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosRefacciones.Designer.cs">
+      <DependentUpon>DatosRefacciones.cs</DependentUpon>
+    </Compile>
     <Compile Include="DatosUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,11 +76,11 @@
     <Compile Include="Principal.Designer.cs">
       <DependentUpon>Principal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Productos.cs">
+    <Compile Include="Refacciones.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Productos.Designer.cs">
-      <DependentUpon>Productos.cs</DependentUpon>
+    <Compile Include="Refacciones.Designer.cs">
+      <DependentUpon>Refacciones.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -84,6 +90,9 @@
     <Compile Include="Usuarios.Designer.cs">
       <DependentUpon>Usuarios.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="DatosRefacciones.resx">
+      <DependentUpon>DatosRefacciones.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DatosUsuario.resx">
       <DependentUpon>DatosUsuario.cs</DependentUpon>
     </EmbeddedResource>
@@ -95,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refacciones.resx">
+      <DependentUpon>Refacciones.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

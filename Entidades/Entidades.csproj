@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Herramientas.cs" />
-    <Compile Include="Producto.cs" />
+    <Compile Include="Refacciones.cs" />
     <Compile Include="Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

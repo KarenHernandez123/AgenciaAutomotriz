@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Producto
+    public class Refacciones
     {
-        public Producto(string codigoBarras, string nombre, string descripcion, string marca)
+        public Refacciones(string idRefaccion, string codigoBarras, string nombre, string descripcion, string marca)
         {
+            this.idRefaccion = idRefaccion;
             CodigoBarras = codigoBarras;
             Nombre = nombre;
             Descripcion = descripcion;
             Marca = marca;
         }
 
+        public string idRefaccion { get; set; }
         public string CodigoBarras { get; set; }
         public string Nombre { get; set; }
         public string Descripcion { get; set; }

@@ -4,3 +4,9 @@ C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Entidades\obj\Debug\Ent
 C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.dll
 C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Karen Hernández\Desktop\AgenciaAutomotriz\Entidades\bin\Debug\Entidades.dll
+C:\Users\Karen Hernández\Desktop\AgenciaAutomotriz\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Karen Hernández\Desktop\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Karen Hernández\Desktop\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Karen Hernández\Desktop\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.dll
+C:\Users\Karen Hernández\Desktop\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.pdb
