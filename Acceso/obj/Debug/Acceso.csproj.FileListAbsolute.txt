@@ -1,0 +1,14 @@
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\bin\Debug\Acceso.dll
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\bin\Debug\Acceso.pdb
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\bin\Debug\Conexion.dll
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\bin\Debug\MySql.Data.dll
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\bin\Debug\System.Memory.dll
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\bin\Debug\System.Buffers.dll
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\bin\Debug\Conexion.pdb
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\obj\Debug\Acceso.csproj.AssemblyReference.cache
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\obj\Debug\Acceso.csproj.CoreCompileInputs.cache
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\obj\Debug\Acceso.csproj.Up2Date
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\obj\Debug\Acceso.dll
+C:\Users\Karen Hernández\source\repos\AgenciaAutomotriz\Acceso\obj\Debug\Acceso.pdb
