@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|c:\\users\\karen hern\u00E1ndez\\desktop\\agenciaautomotriz\\agenciaautomotriz\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\mnaejador\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|solutionrelative:mnaejador\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|c:\\users\\karen hern\u00E1ndez\\desktop\\agenciaautomotriz\\agenciaautomotriz\\datosrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\datosrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\mnaejador\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|solutionrelative:mnaejador\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|c:\\users\\karen hern\u00E1ndez\\desktop\\agenciaautomotriz\\agenciaautomotriz\\datosrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\datosrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\mnaejador\\manejadorherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|solutionrelative:mnaejador\\manejadorherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\entidades\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\entidades\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\datosrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\datosrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,15 +51,11 @@
       "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|c:\\users\\karen hern\u00E1ndez\\desktop\\agenciaautomotriz\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\entidades\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\refacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\mnaejador\\manejadorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,20 +87,8 @@
       "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\agenciaautomotriz\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1861781-35AE-44F6-9F99-5B3C81E0AFDE}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\mnaejador\\manejadorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|solutionrelative:mnaejador\\manejadorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\mnaejador\\manejadorherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A306836-4284-4705-84AA-1673062B3A61}|Mnaejador\\Mnaejador.csproj|solutionrelative:mnaejador\\manejadorherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\entidades\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6723E9F0-8B55-472D-986E-52973AD2383C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39CB24E7-D1E9-4CDF-A7C0-350BBFE00FA1}|Acceso\\Acceso.csproj|C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\acceso\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,11 +102,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Herramientas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Herramientas.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\Herramientas.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Herramientas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AgenciaAutomotriz\\Herramientas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:58:42.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManejadorHerramientas.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Mnaejador\\ManejadorHerramientas.cs",
+              "RelativeDocumentMoniker": "Mnaejador\\ManejadorHerramientas.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Mnaejador\\ManejadorHerramientas.cs",
+              "RelativeToolTip": "Mnaejador\\ManejadorHerramientas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:46:57.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Refacciones.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Refacciones.cs",
+              "RelativeDocumentMoniker": "Entidades\\Refacciones.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Refacciones.cs",
+              "RelativeToolTip": "Entidades\\Refacciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:43:56.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Herramientas.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Herramientas.cs",
+              "RelativeDocumentMoniker": "Entidades\\Herramientas.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Herramientas.cs",
+              "RelativeToolTip": "Entidades\\Herramientas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:43:03.86Z"
             },
             {
               "$type": "Document",
@@ -122,45 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Refacciones.cs",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Refacciones.cs",
-              "RelativeDocumentMoniker": "AgenciaAutomotriz\\Refacciones.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Refacciones.cs*",
-              "RelativeToolTip": "AgenciaAutomotriz\\Refacciones.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAA3wDkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:59:45.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Usuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Usuarios.cs",
-              "RelativeDocumentMoniker": "AgenciaAutomotriz\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Usuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AgenciaAutomotriz\\Usuarios.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T05:36:44.935Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DatosUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosUsuario.cs",
-              "RelativeDocumentMoniker": "AgenciaAutomotriz\\DatosUsuario.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosUsuario.cs",
-              "RelativeToolTip": "AgenciaAutomotriz\\DatosUsuario.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwC4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:37:55.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Program.cs",
               "RelativeDocumentMoniker": "AgenciaAutomotriz\\Program.cs",
@@ -168,71 +177,19 @@
               "RelativeToolTip": "AgenciaAutomotriz\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T21:53:41.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T21:53:41.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DatosRefacciones.cs",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosRefacciones.cs",
-              "RelativeDocumentMoniker": "AgenciaAutomotriz\\DatosRefacciones.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosRefacciones.cs",
-              "RelativeToolTip": "AgenciaAutomotriz\\DatosRefacciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T07:17:23.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ManejadorRefacciones.cs",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Mnaejador\\ManejadorRefacciones.cs",
               "RelativeDocumentMoniker": "Mnaejador\\ManejadorRefacciones.cs",
               "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Mnaejador\\ManejadorRefacciones.cs",
               "RelativeToolTip": "Mnaejador\\ManejadorRefacciones.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwDkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T03:49:47.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DatosUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosUsuario.cs",
-              "RelativeDocumentMoniker": "AgenciaAutomotriz\\DatosUsuario.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AgenciaAutomotriz\\DatosUsuario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:36:19.207Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Usuario.cs",
-              "RelativeDocumentMoniker": "Entidades\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Usuario.cs",
-              "RelativeToolTip": "Entidades\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T02:46:10.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Usuarios.cs",
-              "RelativeDocumentMoniker": "AgenciaAutomotriz\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Usuarios.cs",
-              "RelativeToolTip": "AgenciaAutomotriz\\Usuarios.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAjwEQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:08:39.365Z",
               "EditorCaption": ""
             },
             {
@@ -241,15 +198,96 @@
               "Title": "Refacciones.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Refacciones.cs",
               "RelativeDocumentMoniker": "AgenciaAutomotriz\\Refacciones.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Refacciones.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "AgenciaAutomotriz\\Refacciones.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Refacciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AgenciaAutomotriz\\Refacciones.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T05:29:32.661Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-10T05:29:32.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatosUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosUsuario.cs",
+              "RelativeToolTip": "AgenciaAutomotriz\\DatosUsuario.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:37:55.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Usuarios.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AgenciaAutomotriz\\Usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:36:44.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Refacciones.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Refacciones.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\Refacciones.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Refacciones.cs",
+              "RelativeToolTip": "AgenciaAutomotriz\\Refacciones.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wDkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:59:45.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatosRefacciones.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosRefacciones.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\DatosRefacciones.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosRefacciones.cs",
+              "RelativeToolTip": "AgenciaAutomotriz\\DatosRefacciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:17:23.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatosUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\DatosUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AgenciaAutomotriz\\DatosUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:36:19.207Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:46:10.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Usuarios.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Usuarios.cs",
+              "RelativeToolTip": "AgenciaAutomotriz\\Usuarios.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAjwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:08:39.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ManejadorUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Mnaejador\\ManejadorUsuarios.cs",
               "RelativeDocumentMoniker": "Mnaejador\\ManejadorUsuarios.cs",
@@ -261,19 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Refacciones.cs",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Refacciones.cs",
-              "RelativeDocumentMoniker": "Entidades\\Refacciones.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Refacciones.cs",
-              "RelativeToolTip": "Entidades\\Refacciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T03:43:56.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Principal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Principal.cs",
               "RelativeDocumentMoniker": "AgenciaAutomotriz\\Principal.cs",
@@ -284,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Manejadorlogin.cs",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Mnaejador\\Manejadorlogin.cs",
               "RelativeDocumentMoniker": "Mnaejador\\Manejadorlogin.cs",
@@ -296,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Herramientas.cs",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Herramientas.cs",
               "RelativeDocumentMoniker": "AgenciaAutomotriz\\Herramientas.cs",
@@ -308,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\login.cs",
               "RelativeDocumentMoniker": "AgenciaAutomotriz\\login.cs",
@@ -319,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "login.cs",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\login.cs",
               "RelativeDocumentMoniker": "AgenciaAutomotriz\\login.cs",
@@ -331,18 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Herramientas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Herramientas.cs",
-              "RelativeDocumentMoniker": "AgenciaAutomotriz\\Herramientas.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\source\\repos\\AgenciaAutomotriz\\AgenciaAutomotriz\\Herramientas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\source\\repos\\AgenciaAutomotriz\\AgenciaAutomotriz\\Herramientas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T03:58:42.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Principal.cs",
               "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\AgenciaAutomotriz\\Principal.cs",
               "RelativeDocumentMoniker": "AgenciaAutomotriz\\Principal.cs",
@@ -351,30 +366,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T04:30:55.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ManejadorHerramientas.cs",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Mnaejador\\ManejadorHerramientas.cs",
-              "RelativeDocumentMoniker": "Mnaejador\\ManejadorHerramientas.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Mnaejador\\ManejadorHerramientas.cs",
-              "RelativeToolTip": "Mnaejador\\ManejadorHerramientas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T03:46:57.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Herramientas.cs",
-              "DocumentMoniker": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Herramientas.cs",
-              "RelativeDocumentMoniker": "Entidades\\Herramientas.cs",
-              "ToolTip": "C:\\Users\\Karen Hern\u00E1ndez\\Desktop\\AgenciaAutomotriz\\Entidades\\Herramientas.cs",
-              "RelativeToolTip": "Entidades\\Herramientas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T03:43:03.86Z"
             },
             {
               "$type": "Document",

@@ -8,8 +8,9 @@ namespace Entidades
 {
     public class Herramientas
     {
-        public Herramientas(string codigoBarras, string nombre, string medida, string marca, string descripcion)
+        public Herramientas(int idHerramienta, string codigoBarras, string nombre, string medida, string marca, string descripcion)
         {
+            this.idHerramienta = idHerramienta;
             CodigoBarras = codigoBarras;
             Nombre = nombre;
             Medida = medida;
@@ -17,6 +18,7 @@ namespace Entidades
             Descripcion = descripcion;
         }
 
+        public int idHerramienta { get; set; }
         public string CodigoBarras { get; set; }
         public string Nombre { get; set; }
         public string Medida { get; set; }

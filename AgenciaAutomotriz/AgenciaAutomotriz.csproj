@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DatosHerramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosHerramientas.Designer.cs">
+      <DependentUpon>DatosHerramientas.cs</DependentUpon>
+    </Compile>
     <Compile Include="DatosRefacciones.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +96,9 @@
     <Compile Include="Usuarios.Designer.cs">
       <DependentUpon>Usuarios.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="DatosHerramientas.resx">
+      <DependentUpon>DatosHerramientas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DatosRefacciones.resx">
       <DependentUpon>DatosRefacciones.cs</DependentUpon>
     </EmbeddedResource>

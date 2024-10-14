@@ -4,46 +4,62 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*using Entidades;*/
 using System.Data;
 using System.Windows.Forms;
+using System.Drawing;
+using Mnaejador;
 
 namespace Mnaejador
 {
     public class ManejadorHerramientas
     {
-        private Funciones funciones;
+        Funciones f = new Funciones();
 
-        public ManejadorHerramientas()
+        public void Guardar(TextBox CodigoBarras, TextBox Nombre, TextBox Medida, TextBox Marca, TextBox Descripcion)
         {
-            funciones = new Funciones();
+            string query = $"insert into Herramientas values(null, '{CodigoBarras.Text}', '{Nombre.Text}', '{Medida.Text}', '{Marca.Text}', '{Descripcion.Text}')";
+            MessageBox.Show(f.Guardar(query), "!Atención", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
-      /*  public DataSet ObtenerHerramientas()
+        public void Borrar(int id, string dato)
         {
-            string query = "SELECT * FROM herramientas";
-            return funciones.Mostrar(query, "herramientas");
-        }
+            DialogResult rs = MessageBox.Show($"¿Estás seguro de borrar la herramienta: {dato}?", "!Atención", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 
-        public string AgregarHerramienta(Herramientas herramienta)
-        {
-            string query = $"INSERT INTO herramientas (CodigoBarras, Nombre, Medida, Marca, Descripcion) VALUES ('{herramienta.CodigoBarras}', '{herramienta.Nombre}', '{herramienta.Medida}', '{herramienta.Marca}', '{herramienta.Descripcion}')";
-            return funciones.Guardar(query);
-        }
-
-        public string EliminarHerramienta(DataGridView dataGridView)
-        {
-            if (dataGridView.SelectedRows.Count > 0)
+            if (rs == DialogResult.Yes)
             {
-                string codigoBarras = dataGridView.SelectedRows[0].Cells["CodigoBarras"].Value.ToString();
-                string query = $"DELETE FROM herramientas WHERE CodigoBarras = '{codigoBarras}'";
-                funciones.Borrar(query);
-                return "Herramienta eliminada con éxito.";
+                f.Borrar($"delete from Herramientas where idHerramienta = {id}");
+                MessageBox.Show("Registro Eliminado", "!Atención", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-            else
-            {
-                return "Por favor, selecciona una herramienta para eliminar.";
-            }
-        }*/
+        }
+
+        public void Modificar(TextBox CodigoBarras, TextBox Nombre, TextBox Medida, TextBox Marca, TextBox Descripcion, int idHerramienta)
+        {
+            string query = $"update Herramientas set CodigoBarras = '{CodigoBarras.Text}', " +
+                           $"Nombre = '{Nombre.Text}', Medida = '{Medida.Text}', Marca = '{Marca.Text}', Descripcion = '{Descripcion.Text}' " +
+                           $"where idHerramienta = {idHerramienta}";
+
+            MessageBox.Show(f.Modificar(query), "!Atención", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        DataGridViewButtonColumn Boton(string texto, Color color)
+        {
+            DataGridViewButtonColumn boton = new DataGridViewButtonColumn();
+            boton.Text = texto;
+            boton.UseColumnTextForButtonValue = true;
+            boton.FlatStyle = FlatStyle.Popup;
+            boton.DefaultCellStyle.BackColor = color;
+            boton.DefaultCellStyle.ForeColor = Color.White;
+            return boton;
+        }
+
+        public void Mostrar(DataGridView tabla, string filtro)
+        {
+            tabla.Columns.Clear();
+            tabla.DataSource = f.Mostrar($"Select * from Herramientas where Nombre like '%{filtro}%'", "Herramientas").Tables[0];
+            tabla.Columns.Insert(5, Boton("Borrar", Color.Red));
+            tabla.Columns.Insert(6, Boton("Modificar", Color.Green));
+            tabla.AutoResizeColumns();
+            tabla.AutoResizeRows();
+        }
     }
 }
